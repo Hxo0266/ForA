@@ -1,0 +1,11 @@
+# 统一换行符，避免 Windows / macOS 之间来回 checkout 时
+# 每个文件都显示成「已修改」。
+* text=auto eol=lf
+
+# 二进制文件不做换行转换
+*.png  binary
+*.jpg  binary
+*.pptx binary
+*.docx binary
+*.pdf  binary
+*.pack binary

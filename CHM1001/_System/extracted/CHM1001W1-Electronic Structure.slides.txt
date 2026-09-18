@@ -1,0 +1,369 @@
+# SOURCE: CHM1001W1-Electronic Structure.pptx
+# TOTAL_UNITS: 45
+
+===== SLIDE 1 =====
+[TITLE] Lecture Presentation
+Lecture Presentation
+Chapter 6 Electronic Structure of Atoms
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-01.png  (1 张嵌入图)
+
+===== SLIDE 2 =====
+[TITLE] Electronic Structure
+Electronic Structure
+This chapter is all about electronic structure—the arrangement and energy of electrons.
+It may seem odd to start by talking about waves. However, extremely small particles have properties that can only be explained in this manner!
+
+===== SLIDE 3 =====
+[TITLE] Waves
+Waves
+To understand the electronic structure of atoms, one must understand the nature of electromagnetic radiation.
+The distance between corresponding points on adjacent waves is the wavelength ().
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-03.png  (1 张嵌入图)
+
+===== SLIDE 4 =====
+[TITLE] Waves
+Waves
+The number of waves passing a given point per unit of time is the frequency ().
+For waves traveling at the same velocity, the longer the wavelength, the smaller the frequency.
+If the time associated with the lines to the left is one second, then the frequencies would be 2 s–1 and 4 s–1, respectively.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-04.png  (1 张嵌入图)
+
+===== SLIDE 5 =====
+[TITLE] Electromagnetic Radiation
+Electromagnetic Radiation
+All electromagnetic radiation travels at the same velocity: The speed of light (c) is 3.00  108 m/s.
+c = 
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-05.png  (1 张嵌入图)
+
+===== SLIDE 6 =====
+[TITLE] The Nature of Energy
+The Nature of Energy
+The wave nature of light does not explain how an object can glow when its temperature increases.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-06.png  (1 张嵌入图)
+
+===== SLIDE 7 =====
+[TITLE] The Nature of Energy—Quanta
+The Nature of Energy—Quanta
+Max Planck explained it by assuming that energy comes in packets called quanta (singular:  quantum).
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-07.png  (1 张嵌入图)
+
+===== SLIDE 8 =====
+[TITLE] The Photoelectric Effect
+The Photoelectric Effect
+Einstein used quanta to explain the photoelectric effect.
+Each metal has a different energy at which it ejects electrons. At lower energy, electrons are not emitted.
+He concluded that energy is proportional to frequency:
+E = h
+	where h is Planck’s constant, 6.626  10−34 J∙s.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-08.png  (1 张嵌入图)
+
+===== SLIDE 9 =====
+[TITLE] Atomic Emissions
+Atomic Emissions
+Another mystery in the early twentieth century involved the emission spectra observed from energy emitted by atoms and molecules.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-09.png  (1 张嵌入图)
+
+===== SLIDE 10 =====
+[TITLE] Continuous vs. Line Spectra
+Continuous vs. Line Spectra
+For atoms and molecules, one does not observe a continuous spectrum (the “rainbow”), as one gets from a white light source.
+Only a line spectrum of discrete wavelengths is observed. Each element has a unique line spectrum.
+[IMAGES] 2
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-10.png  (2 张嵌入图)
+
+===== SLIDE 11 =====
+[TITLE] The Hydrogen Spectrum
+The Hydrogen Spectrum
+Johann Balmer (1885) discovered a simple formula relating the four lines to integers.
+Johannes Rydberg advanced this formula.
+	
+Neils Bohr explained why this mathematical relationship works.
+[IMAGES] 2
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-11.png  (2 张嵌入图)
+
+===== SLIDE 12 =====
+[TITLE] The Bohr Model
+The Bohr Model
+Niels Bohr adopted Planck’s assumption and explained these phenomena in this way:
+Electrons in an atom can only occupy certain orbits (corresponding to certain energies).
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-12.png  (1 张嵌入图)
+
+===== SLIDE 13 =====
+[TITLE] The Bohr Model
+The Bohr Model
+Electrons in permitted orbits have specific, “allowed” energies; these energies will not be radiated from the atom.
+Energy is only absorbed or emitted in such a way as to move an electron from one “allowed” energy state to another; the energy is defined by 
+E = h
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-13.png  (1 张嵌入图)
+
+===== SLIDE 14 =====
+[TITLE] The Bohr Model
+The Bohr Model
+The energy absorbed or emitted from the process of electron promotion or demotion can be calculated by the equation
+where RH is the Rydberg constant, 1.097  107 m−1, and ni and nf are the initial and final energy levels of the electron.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-14.png  (1 张嵌入图)
+
+===== SLIDE 15 =====
+[TITLE] Limitations of the Bohr Model
+Limitations of the Bohr Model
+It only works for hydrogen!
+Classical physics would result in an electron falling into the positively charged nucleus. Bohr simply assumed it would not!
+Circular motion is not wave-like in nature.
+
+===== SLIDE 16 =====
+[TITLE] Important Ideas from the
+Important Ideas from theBohr Model
+Points that are incorporated into the current atomic model include the following:
+ Electrons exist only in certain discrete
+      energy levels.
+2)  Energy is involved in the transition of
+     an electron from one level to another.
+
+===== SLIDE 17 =====
+[TITLE] The Wave Nature of Matter
+The Wave Nature of Matter
+Louis de Broglie theorized that if light can have material properties, matter should exhibit wave properties.
+He demonstrated that the relationship between mass and wavelength was
+The wave nature of light is used to produce this electron micrograph.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-17.png  (1 张嵌入图)
+
+===== SLIDE 18 =====
+[TITLE] The Uncertainty Principle
+The Uncertainty Principle
+Heisenberg showed that the more precisely the momentum of a particle is known, the less precisely is its position is known:
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-18.png  (1 张嵌入图)
+
+===== SLIDE 19 =====
+[TITLE] Quantum Mechanics
+Quantum Mechanics
+Erwin Schrödinger developed a mathematical treatment into which both the wave and particle nature of matter could be incorporated.
+This is known as quantum mechanics.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-19.png  (1 张嵌入图)
+
+===== SLIDE 20 =====
+[TITLE] Quantum Mechanics
+Quantum Mechanics
+The solution of Schrödinger’s wave equation is designated with a lowercase Greek psi ().
+The square of the wave equation, 2, gives the electron density, or probability of where an electron is likely to be at any given time.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-20.png  (1 张嵌入图)
+
+===== SLIDE 21 =====
+[TITLE] Quantum Numbers
+Quantum Numbers
+Solving the wave equation gives a set of wave functions, or orbitals, and their corresponding energies.
+Each orbital describes a spatial distribution of electron density.
+An orbital is described by a set of three quantum numbers.
+
+===== SLIDE 22 =====
+[TITLE] Principal Quantum Number (n)
+Principal Quantum Number (n)
+The principal quantum number, n, describes the energy level on which the orbital resides.
+The values of n are integers ≥ 1.
+These correspond to the values in the Bohr model.
+
+===== SLIDE 23 =====
+[TITLE] Angular Momentum Quantum Number (l)
+Angular Momentum Quantum Number (l)
+This quantum number defines the shape of the orbital.
+Allowed values of l are integers ranging from 0 to n − 1.
+We use letter designations to communicate the different values of l and, therefore, the shapes and types of orbitals.
+
+===== SLIDE 24 =====
+[TITLE] Angular Momentum Quantum Number (l)
+Angular Momentum Quantum Number (l)
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-24.png  (1 张嵌入图)
+
+===== SLIDE 25 =====
+[TITLE] Magnetic Quantum Number (ml)
+Magnetic Quantum Number (ml)
+The magnetic quantum number describes the three-dimensional orientation of the orbital.
+Allowed values of ml are integers ranging from −l to l:
+ −l ≤ ml ≤ l
+Therefore, on any given energy level, there can be up to 1 s orbital, 3 p orbitals, 5 d orbitals, 7 f orbitals, and so forth.
+
+===== SLIDE 26 =====
+[TITLE] Magnetic Quantum Number (ml)
+Magnetic Quantum Number (ml)
+Orbitals with the same value of n form an electron shell.
+Different orbital types within a shell are subshells.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-26.png  (1 张嵌入图)
+
+===== SLIDE 27 =====
+[TITLE] s Orbitals
+s Orbitals
+The value of l for s orbitals is 0.
+They are spherical in shape.
+The radius of the sphere increases with the value of n.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-27.png  (1 张嵌入图)
+
+===== SLIDE 28 =====
+[TITLE] s Orbitals
+s Orbitals
+For an ns orbital, the number of peaks is n.
+For an ns orbital, the number of nodes (where there is zero probability of finding an electron) is n – 1.
+As n increases, the electron density is more spread out and there is a greater probability of finding an electron further from the nucleus.
+[IMAGES] 2
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-28.png  (2 张嵌入图)
+
+===== SLIDE 29 =====
+[TITLE] p Orbitals
+p Orbitals
+The value of l for p orbitals is 1.
+They have two lobes with a node between them.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-29.png  (1 张嵌入图)
+
+===== SLIDE 30 =====
+[TITLE] d Orbitals
+d Orbitals
+The value of l for a d orbital is 2.
+Four of the five d orbitals have four lobes; the other resembles a p orbital with a doughnut around the center.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-30.png  (1 张嵌入图)
+
+===== SLIDE 31 =====
+[TITLE] f Orbitals
+f Orbitals
+Very complicated shapes (not shown in text)
+Seven equivalent orbitals in a sublevel
+l = 3
+
+===== SLIDE 32 =====
+[TITLE] Energies of Orbitals—Hydrogen
+Energies of Orbitals—Hydrogen
+For a one-electron hydrogen atom, orbitals on the same energy level have the same energy.
+Chemists call them degenerate orbitals.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-32.png  (1 张嵌入图)
+
+===== SLIDE 33 =====
+[TITLE] Energies of Orbitals—
+Energies of Orbitals—Many-electron Atoms
+As the number of electrons increases, so does the repulsion between them.
+Therefore, in atoms with more than one electron, not all orbitals on the same energy level are degenerate.
+Orbital sets in the same sublevel are still degenerate.
+Energy levels start to overlap in energy (e.g., 4s is lower in energy than 3d.)
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-33.png  (1 张嵌入图)
+
+===== SLIDE 34 =====
+[TITLE] Spin Quantum Number, ms
+Spin Quantum Number, ms
+In the 1920s, it was discovered that two electrons in the same orbital do not have exactly the same energy.
+The “spin” of an electron describes its magnetic field, which affects its energy.
+This led to the spin quantum number, ms.
+The spin quantum number has only two allowed values, +½ and –½.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-34.png  (1 张嵌入图)
+
+===== SLIDE 35 =====
+[TITLE] Pauli Exclusion Principle
+Pauli Exclusion Principle
+No two electrons in the same atom can have identical sets of quantum numbers.
+This means that every electron in an atom must differ by at least one of the four quantum number values: n, l, ml, and ms.
+
+===== SLIDE 36 =====
+[TITLE] Electron Configurations
+Electron Configurations
+The way electrons are distributed in an atom is called its electron configuration.
+The most stable organization is the lowest possible energy, called the ground state.
+Each component consists of 
+a number denoting the energy level;
+4p5
+
+===== SLIDE 37 =====
+[TITLE] Electron Configurations
+Electron Configurations
+The way electrons are distributed in an atom is called its electron configuration.
+The most stable organization is the lowest possible energy, called the ground state.
+Each component consists of 
+a number denoting the energy level;
+a letter denoting the type of orbital;
+4p5
+
+===== SLIDE 38 =====
+[TITLE] Electron Configurations
+Electron Configurations
+The way electrons are distributed in an atom is called its electron configuration.
+The most stable organization is the lowest possible energy, called the ground state.
+Each component consists of 
+a number denoting the energy level;
+a letter denoting the type of orbital;
+a superscript denoting the number of electrons in those orbitals.
+4p5
+
+===== SLIDE 39 =====
+[TITLE] Orbital Diagrams
+Orbital Diagrams
+Each box in the diagram represents one orbital.
+Half-arrows represent the electrons.
+The direction of the arrow represents the relative spin of the electron.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-39.png  (1 张嵌入图)
+
+===== SLIDE 40 =====
+[TITLE] Hund’s Rule
+Hund’s Rule
+“For degenerate orbitals, the lowest energy is attained when the number of electrons with the same spin is maximized.”
+This means that, for a set of orbitals in the same sublevel, there must be one electron in each orbital before pairing and the electrons have the same spin, as much as possible.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-40.png  (1 张嵌入图)
+
+===== SLIDE 41 =====
+[TITLE] Condensed Electron Configurations
+Condensed Electron Configurations
+Elements in the same group of the periodic table have the same number of electrons in the outer most shell.  These are the valence electrons.
+The filled inner shell electrons are called core electrons. These include completely filled d or f sublevels.
+We write a shortened version of an electron configuration using brackets around a noble gas symbol and listing only valence electrons.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-41.png  (1 张嵌入图)
+
+===== SLIDE 42 =====
+[TITLE] Periodic Table
+Periodic Table
+We fill orbitals in increasing order of energy.
+Different blocks on the periodic table correspond to different types of orbitals: s = blue, p = pink (s and p are representative elements); d = orange (transition elements); f = tan (lanthanides and actinides, or inner transition elements)
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-42.png  (1 张嵌入图)
+
+===== SLIDE 43 =====
+[TITLE] Some Anomalies
+Some Anomalies
+Some irregularities occur when there are enough electrons to half-fill s and d orbitals on a given row.
+[IMAGES] 1
+[FIGURE] figures/CHM1001W1-Electronic-Structure/slide-43.png  (1 张嵌入图)
+
+===== SLIDE 44 =====
+[TITLE] Chromium as an Anomaly
+Chromium as an Anomaly
+For instance, the electron configuration for chromium is
+	[Ar] 4s1 3d5
+    rather than the expected
+	[Ar] 4s2 3d4.
+This occurs because the 4s and 3d orbitals are very close in energy.
+These anomalies occur in f-block atoms with f and d orbitals, as well.
+
+===== SLIDE 45 =====
+[TITLE] Why 4s subshell is filled before 3d but on ionization 4s electrons are removed first?
+Why 4s subshell is filled before 3d but on ionization 4s electrons are removed first?
+The rule: Filling up of orbitals is dependent on orbital energy while removal of electrons from orbitals is dependent on orbital location
+4s has a lower energy than 3d, so it is filled up first.
+4s is farther away from the nucleus than 3d.

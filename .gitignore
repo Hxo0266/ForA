@@ -1,0 +1,35 @@
+# ─────────────────────────────────────────────────────────────
+#  ForA · 忽略规则
+# ─────────────────────────────────────────────────────────────
+
+# ── Python 虚拟环境（约 104MB，是运行时环境不是内容）──
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ── Office 临时文件（对齐 health_check.py 的 SKIP_PREFIXES）──
+~$*
+._*
+
+# ── 系统 / 浏览器残留（对齐 health_check.py 的 SKIP_EXTS）──
+*.tmp
+*.part
+*.crdownload
+*.lock
+*.lnk
+*.ini
+*.db
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ── 课件原始材料：版权归课程方，不上公开仓库 ──
+# 讲义 PPTX 与幻灯片截图已备份至私有仓库 ForA-courseware。
+# 注意：`3_Essence/*.md` 里的图片链接会因此失效，属预期。
+**/2_Textbook&Lecture_PPT/
+**/3_Essence/figures/

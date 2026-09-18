@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "course": "CHM1001",
+  "desc": "课程工作流分类税表：folder 映射 + 文件名关键词规则。可直接编辑，脚本每次运行都会重新读取。目录名统一由这里解析，改名只需同步本文件（ERROR_LOG AIE-018 / AIE-024）。",
+  "folders": {
+    "inbox": "0_inbox",
+    "syllabus": "1_Syllabus",
+    "slides": "2_Textbook&Lecture_PPT",
+    "textbook": "2_Textbook&Lecture_PPT",
+    "essence": "3_Essence",
+    "assignment": "4_Assignment",
+    "quiz": "5_Quiz",
+    "midterm": "6_Midterm Examination",
+    "final": "7_Final Examination",
+    "correction": "8_Correction_Notebook",
+    "others": "10_Others"
+  },
+  "optional_folders": {},
+  "skip_names": [
+    "thumbs.db",
+    "desktop.ini",
+    ".ds_store",
+    "icon\r"
+  ],
+  "skip_prefixes": [
+    "~$",
+    "._",
+    ".~"
+  ],
+  "skip_exts": [
+    ".tmp",
+    ".part",
+    ".crdownload",
+    ".lock",
+    ".lnk",
+    ".ini"
+  ],
+  "keywords": {
+    "final": [
+      "final",
+      "finals",
+      "期末考试",
+      "期末考",
+      "期末",
+      "末考",
+      "大一统考"
+    ],
+    "midterm": [
+      "midterm",
+      "mid-term",
+      "mid_term",
+      "midtermexam",
+      "期中考试",
+      "期中考",
+      "期中",
+      "中段考"
+    ],
+    "exam": [
+      "exam",
+      "examination",
+      "test",
+      "mock",
+      "试卷",
+      "真题",
+      "统考",
+      "考试"
+    ],
+    "answer": [
+      "answer",
+      "answers",
+      "ans",
+      "solution",
+      "solutions",
+      "sol",
+      "key",
+      "答案",
+      "解答",
+      "参考答案",
+      "解析"
+    ],
+    "slides": [
+      "slide",
+      "slides",
+      "lecture",
+      "ppt",
+      "pptx",
+      "chapter",
+      "chap",
+      "lect",
+      "课件",
+      "讲义",
+      "幻灯片",
+      "tutorial",
+      "tut"
+    ],
+    "essence": [
+      "essence",
+      "summary",
+      "digest",
+      "笔记",
+      "总结",
+      "提炼",
+      "知识点",
+      "提纲",
+      "纲要"
+    ],
+    "textbook": [
+      "textbook",
+      "教材",
+      "课本",
+      "参考书",
+      "text"
+    ],
+    "syllabus": [
+      "syllabus",
+      "course outline",
+      "course description",
+      "course info",
+      "course policy",
+      "grading policy",
+      "grading scheme",
+      "grading",
+      "assessment",
+      "academic integrity",
+      "honor code",
+      "rubric",
+      "reading list",
+      "schedule",
+      "timetable",
+      "calendar",
+      "handbook",
+      "office hours",
+      "attendance",
+      "教学大纲",
+      "课程大纲",
+      "课程纲要",
+      "课程介绍",
+      "课程简介",
+      "评分标准",
+      "考核方式",
+      "评分细则",
+      "课程安排",
+      "教学安排",
+      "课表",
+      "学术诚信",
+      "出勤",
+      "选课",
+      "课程说明"
+    ],
+    "quiz": [
+      "quiz",
+      "quizzes",
+      "pop quiz",
+      "popquiz",
+      "小测",
+      "小测验",
+      "随堂",
+      "随堂演练",
+      "随堂测验",
+      "随堂练习",
+      "课堂测验",
+      "课堂练习",
+      "mini test"
+    ],
+    "assignment": [
+      "homework",
+      "assignment",
+      "hw",
+      "作业",
+      "大作业",
+      "实验报告",
+      "lab report",
+      "lab",
+      "report",
+      "project",
+      "习题",
+      "练习册"
+    ],
+    "correction": [
+      "错题",
+      "错题本",
+      "错题集",
+      "易错题",
+      "易错",
+      "错题整理",
+      "错题集锦",
+      "纠错本",
+      "correction",
+      "wrong question",
+      "wrongquestion",
+      "错题收录"
+    ]
+  },
+  "lecture_token_patterns": [
+    "^l\\d{1,2}$",
+    "^lec\\d{1,2}$",
+    "^lect\\d{1,2}$",
+    "^ch\\d{1,2}$",
+    "^chap\\d{1,2}$",
+    "^chapter\\d{1,2}$",
+    "^week\\d{1,2}$",
+    "^wk\\d{1,2}$",
+    "^unit\\d{1,2}$",
+    "^topic\\d{1,2}$",
+    "^session\\d{1,2}$"
+  ],
+  "slide_exts": [
+    ".ppt",
+    ".pptx",
+    ".key",
+    ".odp"
+  ],
+  "doc_exts": [
+    ".pdf",
+    ".doc",
+    ".docx",
+    ".md",
+    ".txt",
+    ".rtf",
+    ".odt"
+  ],
+  "image_exts": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".bmp",
+    ".tif",
+    ".tiff",
+    ".heic",
+    ".webp"
+  ],
+  "content_peek_keywords": {
+    "midterm": [
+      "midterm",
+      "mid-term",
+      "期中",
+      "middle term"
+    ],
+    "final": [
+      "final examination",
+      "final exam",
+      "期末考试",
+      "final test"
+    ],
+    "slides": [
+      "lecture",
+      "chapter",
+      "agenda",
+      "outline",
+      "learning objectives",
+      "课件"
+    ]
+  },
+  "batch_size_default": 10,
+  "non_deck_keywords": [
+    "textbook",
+    "教材",
+    "课本",
+    "参考书",
+    "solution",
+    "solutions",
+    "解答",
+    "答案",
+    "edition",
+    "习题解答",
+    "教师用书"
+  ]
+}

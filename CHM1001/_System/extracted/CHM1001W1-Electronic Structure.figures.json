@@ -1,0 +1,229 @@
+{
+  "source": "CHM1001W1-Electronic Structure.pptx",
+  "strategy": "auto",
+  "dpi": 150,
+  "figure_root": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures",
+  "count": 31,
+  "figures": [
+    {
+      "index": 1,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-01.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-01.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 3,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-03.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-03.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 4,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-04.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-04.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 5,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-05.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-05.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 6,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-06.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-06.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 7,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-07.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-07.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 8,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-08.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-08.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 9,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-09.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-09.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 10,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-10.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-10.png",
+      "kind": "2 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 11,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-11.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-11.png",
+      "kind": "2 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 12,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-12.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-12.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 13,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-13.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-13.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 14,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-14.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-14.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 17,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-17.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-17.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 18,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-18.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-18.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 19,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-19.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-19.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 20,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-20.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-20.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 24,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-24.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-24.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 26,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-26.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-26.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 27,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-27.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-27.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 28,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-28.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-28.png",
+      "kind": "2 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 29,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-29.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-29.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 30,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-30.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-30.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 32,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-32.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-32.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 33,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-33.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-33.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 34,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-34.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-34.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 39,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-39.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-39.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 40,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-40.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-40.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 41,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-41.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-41.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 42,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-42.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-42.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    },
+    {
+      "index": 43,
+      "file": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\Essence\\figures\\CHM1001W1-Electronic-Structure\\slide-43.png",
+      "rel": "figures/CHM1001W1-Electronic-Structure/slide-43.png",
+      "kind": "1 张嵌入图",
+      "dpi": 150
+    }
+  ],
+  "notes": [
+    "目录/笔记名已安全化：`CHM1001W1-Electronic Structure` → `CHM1001W1-Electronic-Structure`（原名含空格或特殊字符，直接当路径会让 Markdown 链接在空格处截断）"
+  ]
+}

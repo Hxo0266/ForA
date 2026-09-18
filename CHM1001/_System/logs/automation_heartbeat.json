@@ -1,0 +1,9 @@
+{
+  "automation": "CHM1001 课件自动提炼 Essence",
+  "last_run": "2026-09-14T21:46:23",
+  "phases": [
+    "close"
+  ],
+  "worst_exit": 3,
+  "processed": []
+}

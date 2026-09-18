@@ -1,0 +1,415 @@
+{
+  "source": "CHM1001W1-Electronic Structure.pptx",
+  "path": "C:\\Users\\Lenovo\\Desktop\\LGU\\2-1 Early Sophomore\\CHM1001\\PPT\\CHM1001W1-Electronic Structure.pptx",
+  "ext": ".pptx",
+  "units": 45,
+  "pages": [
+    {
+      "index": 1,
+      "title": "Lecture Presentation",
+      "text": "Lecture Presentation\nChapter 6\u000b\u000b Electronic Structure of Atoms",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 1
+    },
+    {
+      "index": 2,
+      "title": "Electronic Structure",
+      "text": "Electronic Structure\nThis chapter is all about electronic structure—the arrangement and energy of electrons.\nIt may seem odd to start by talking about waves. However, extremely small particles have properties that can only be explained in this manner!",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 3,
+      "title": "Waves",
+      "text": "Waves\nTo understand the electronic structure of atoms, one must understand the nature of electromagnetic radiation.\nThe distance between corresponding points on adjacent waves is the wavelength ().",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 4,
+      "title": "Waves",
+      "text": "Waves\nThe number of waves passing a given point per unit of time is the frequency ().\nFor waves traveling at the same velocity, the longer the wavelength, the smaller the frequency.\nIf the time associated with the lines to the left is one second, then the frequencies would be 2 s–1 and 4 s–1, respectively.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 5,
+      "title": "Electromagnetic Radiation",
+      "text": "Electromagnetic Radiation\nAll electromagnetic radiation travels at the same velocity: The speed of light (c) is 3.00  108 m/s.\nc = ",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 6,
+      "title": "The Nature of Energy",
+      "text": "The Nature of Energy\nThe wave nature of light does not explain how an object can glow when its temperature increases.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 7,
+      "title": "The Nature of Energy—Quanta",
+      "text": "The Nature of Energy—Quanta\nMax Planck explained it by assuming that energy comes in packets called quanta (singular:  quantum).",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 8,
+      "title": "The Photoelectric Effect",
+      "text": "The Photoelectric Effect\nEinstein used quanta to explain the photoelectric effect.\nEach metal has a different energy at which it ejects electrons. At lower energy, electrons are not emitted.\nHe concluded that energy is proportional to frequency:\nE = h\n\twhere h is Planck’s constant, 6.626  10−34 J∙s.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 9,
+      "title": "Atomic Emissions",
+      "text": "Atomic Emissions\nAnother mystery in the early twentieth century involved the emission spectra observed from energy emitted by atoms and molecules.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 10,
+      "title": "Continuous vs. Line Spectra",
+      "text": "Continuous vs. Line Spectra\nFor atoms and molecules, one does not observe a continuous spectrum (the “rainbow”), as one gets from a white light source.\nOnly a line spectrum of discrete wavelengths is observed. Each element has a unique line spectrum.",
+      "tables": [],
+      "notes": "",
+      "n_images": 2,
+      "n_shapes": 0
+    },
+    {
+      "index": 11,
+      "title": "The Hydrogen Spectrum",
+      "text": "The Hydrogen Spectrum\nJohann Balmer (1885) discovered a simple formula relating the four lines to integers.\nJohannes Rydberg advanced this formula.\n\t\nNeils Bohr explained why this mathematical relationship works.",
+      "tables": [],
+      "notes": "",
+      "n_images": 2,
+      "n_shapes": 0
+    },
+    {
+      "index": 12,
+      "title": "The Bohr Model",
+      "text": "The Bohr Model\nNiels Bohr adopted Planck’s assumption and explained these phenomena in this way:\nElectrons in an atom can \u000bonly occupy certain orbits (corresponding to certain energies).",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 13,
+      "title": "The Bohr Model",
+      "text": "The Bohr Model\nElectrons in permitted orbits have specific, “allowed” energies; these energies will not be radiated from the atom.\nEnergy is only absorbed or emitted in such a way as to move an electron from one “allowed” energy state to another; the energy is defined by \nE = h",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 14,
+      "title": "The Bohr Model",
+      "text": "The Bohr Model\nThe energy absorbed or emitted from the process of electron promotion or demotion can be calculated by the equation\nwhere RH is the Rydberg constant, 1.097  107 m−1, and ni and nf are the initial and final energy levels of the electron.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 2
+    },
+    {
+      "index": 15,
+      "title": "Limitations of the Bohr Model",
+      "text": "Limitations of the Bohr Model\nIt only works for hydrogen!\nClassical physics would result in an electron falling into the positively charged nucleus. Bohr simply assumed it would not!\nCircular motion is not wave-like in nature.",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 16,
+      "title": "Important Ideas from the",
+      "text": "Important Ideas from the\u000bBohr Model\nPoints that are incorporated into the current atomic model include the following:\n Electrons exist only in certain discrete\n      energy levels.\n2)  Energy is involved in the transition of\n     an electron from one level to another.",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 17,
+      "title": "The Wave Nature of Matter",
+      "text": "The Wave Nature of Matter\nLouis de Broglie theorized that if light can have material properties, matter should exhibit wave properties.\nHe demonstrated that the relationship between mass and wavelength was\nThe wave nature of light is used to produce this electron micrograph.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 1
+    },
+    {
+      "index": 18,
+      "title": "The Uncertainty Principle",
+      "text": "The Uncertainty Principle\nHeisenberg showed that the more precisely the momentum of a particle is known, the less precisely is its position is known:",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 1
+    },
+    {
+      "index": 19,
+      "title": "Quantum Mechanics",
+      "text": "Quantum Mechanics\nErwin Schrödinger developed a mathematical treatment into which both the wave and particle nature of matter could be incorporated.\nThis is known as quantum mechanics.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 20,
+      "title": "Quantum Mechanics",
+      "text": "Quantum Mechanics\nThe solution of Schrödinger’s wave equation is designated with a lowercase Greek psi ().\nThe square of the wave equation, 2, gives the electron density, or probability of where an electron is likely to be at any given time.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 21,
+      "title": "Quantum Numbers",
+      "text": "Quantum Numbers\nSolving the wave equation gives a set of wave functions, or orbitals, and their corresponding energies.\nEach orbital describes a spatial distribution of electron density.\nAn orbital is described by a set of three quantum numbers.",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 22,
+      "title": "Principal Quantum Number (n)",
+      "text": "Principal Quantum Number (n)\nThe principal quantum number, n, describes the energy level on which the orbital resides.\nThe values of n are integers ≥ 1.\nThese correspond to the values in the Bohr model.",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 23,
+      "title": "Angular Momentum Quantum Number (l)",
+      "text": "Angular Momentum Quantum Number (l)\nThis quantum number defines the shape of the orbital.\nAllowed values of l are integers ranging from 0 to n − 1.\nWe use letter designations to communicate the different values of l and, therefore, the shapes and types of orbitals.",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 24,
+      "title": "Angular Momentum Quantum Number (l)",
+      "text": "Angular Momentum Quantum Number (l)",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 25,
+      "title": "Magnetic Quantum Number (ml)",
+      "text": "Magnetic Quantum Number (ml)\nThe magnetic quantum number describes the three-dimensional orientation of the orbital.\nAllowed values of ml are integers ranging from −l to l:\n −l ≤ ml ≤ l\nTherefore, on any given energy level, there can be up to 1 s orbital, 3 p orbitals, 5 d orbitals, 7 f orbitals, and so forth.",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 26,
+      "title": "Magnetic Quantum Number (ml)",
+      "text": "Magnetic Quantum Number (ml)\nOrbitals with the same value of n form an electron shell.\nDifferent orbital types within a shell are subshells.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 27,
+      "title": "s Orbitals",
+      "text": "s Orbitals\nThe value of l for s orbitals is 0.\nThey are spherical in shape.\nThe radius of the sphere increases with the value of n.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 28,
+      "title": "s Orbitals",
+      "text": "s Orbitals\nFor an ns orbital, the number of peaks is n.\nFor an ns orbital, the number of nodes (where there is zero probability of finding an electron) is n – 1.\nAs n increases, the electron density is more spread out and there is a greater probability of finding an electron further from the nucleus.",
+      "tables": [],
+      "notes": "",
+      "n_images": 2,
+      "n_shapes": 1
+    },
+    {
+      "index": 29,
+      "title": "p Orbitals",
+      "text": "p Orbitals\nThe value of l for p orbitals is 1.\nThey have two lobes with a node between them.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 30,
+      "title": "d Orbitals",
+      "text": "d Orbitals\nThe value of l for a d orbital is 2.\nFour of the five d orbitals have four lobes; the other resembles a p orbital with a doughnut around the center.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 31,
+      "title": "f Orbitals",
+      "text": "f Orbitals\nVery complicated shapes (not shown \u000bin text)\nSeven equivalent orbitals in a sublevel\nl = 3",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 32,
+      "title": "Energies of Orbitals—Hydrogen",
+      "text": "Energies of Orbitals—Hydrogen\nFor a one-electron hydrogen atom, orbitals on the same energy level have the same energy.\nChemists call them degenerate orbitals.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 33,
+      "title": "Energies of Orbitals—",
+      "text": "Energies of Orbitals—\u000bMany-electron Atoms\nAs the number of electrons increases, so does the repulsion between them.\nTherefore, in atoms with more than one electron, not all orbitals on the same energy level are degenerate.\nOrbital sets in the same sublevel are still degenerate.\nEnergy levels start to overlap in energy (e.g., 4s is lower \u000bin energy than 3d.)",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 34,
+      "title": "Spin Quantum Number, ms",
+      "text": "Spin Quantum Number, ms\nIn the 1920s, it was discovered that two electrons in the same orbital do not have exactly the same energy.\nThe “spin” of an electron describes its magnetic field, which affects its energy.\nThis led to the spin quantum number, ms.\nThe spin quantum number has only two allowed values, +½ and –½.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 35,
+      "title": "Pauli Exclusion Principle",
+      "text": "Pauli Exclusion Principle\nNo two electrons in the same atom can have identical sets of quantum numbers.\nThis means that every electron in an atom must differ by at least one of the four quantum number values: n, l, ml, and ms.",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 36,
+      "title": "Electron Configurations",
+      "text": "Electron Configurations\nThe way electrons are distributed in an atom is called its electron configuration.\nThe most stable organization is the lowest possible energy, called the ground state.\nEach component consists of \na number denoting the energy level;\n4p5",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 1
+    },
+    {
+      "index": 37,
+      "title": "Electron Configurations",
+      "text": "Electron Configurations\nThe way electrons are distributed in an atom is called its electron configuration.\nThe most stable organization is the lowest possible energy, called the ground state.\nEach component consists of \na number denoting the energy level;\na letter denoting the type of orbital;\n4p5",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 1
+    },
+    {
+      "index": 38,
+      "title": "Electron Configurations",
+      "text": "Electron Configurations\nThe way electrons are distributed in an atom is called its electron configuration.\nThe most stable organization is the lowest possible energy, called the ground state.\nEach component consists of \na number denoting the energy level;\na letter denoting the type of orbital;\na superscript denoting the number of electrons in those orbitals.\n4p5",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 1
+    },
+    {
+      "index": 39,
+      "title": "Orbital Diagrams",
+      "text": "Orbital Diagrams\nEach box in the diagram represents one orbital.\nHalf-arrows represent the electrons.\nThe direction of the arrow represents the relative spin of the electron.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 40,
+      "title": "Hund’s Rule",
+      "text": "Hund’s Rule\n“For degenerate orbitals, the lowest energy is attained when the number of electrons with the same spin is maximized.”\nThis means that, for a set of orbitals in the same sublevel, there must be one electron in each orbital before pairing and the electrons have the same spin, as much as possible.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 41,
+      "title": "Condensed Electron Configurations",
+      "text": "Condensed Electron Configurations\nElements in the same group of the periodic table have the same number of electrons in the outer most shell.  These are the valence electrons.\nThe filled inner shell electrons are called core electrons. These include completely filled d or f sublevels.\nWe write a shortened version of an electron configuration using brackets around a noble gas symbol and listing only valence electrons.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 42,
+      "title": "Periodic Table",
+      "text": "Periodic Table\nWe fill orbitals in increasing order of energy.\nDifferent blocks on the periodic table correspond to different types of orbitals: s = blue, p = pink (s and p are representative elements); d = orange (transition elements); f = tan (lanthanides and actinides, or inner transition elements)",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 43,
+      "title": "Some Anomalies",
+      "text": "Some Anomalies\nSome irregularities occur when there are enough electrons to half-fill s and d orbitals on a given row.",
+      "tables": [],
+      "notes": "",
+      "n_images": 1,
+      "n_shapes": 0
+    },
+    {
+      "index": 44,
+      "title": "Chromium as an Anomaly",
+      "text": "Chromium as an Anomaly\nFor instance, the electron configuration for chromium is\n\t[Ar] 4s1 3d5\n    rather than the expected\n\t[Ar] 4s2 3d4.\nThis occurs because the 4s and 3d orbitals are very close in energy.\nThese anomalies occur in f-block atoms with f and d orbitals, as well.",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    },
+    {
+      "index": 45,
+      "title": "Why 4s subshell is filled before 3d but on ionization 4s electrons are removed first?",
+      "text": "Why 4s subshell is filled before 3d but on ionization 4s electrons are removed first?\nThe rule: Filling up of orbitals is dependent on orbital energy while removal of electrons from orbitals is dependent on orbital location\n4s has a lower energy than 3d, so it is filled up first.\n4s is farther away from the nucleus than 3d.",
+      "tables": [],
+      "notes": "",
+      "n_images": 0,
+      "n_shapes": 0
+    }
+  ],
+  "figure_count": 31,
+  "warnings": []
+}
